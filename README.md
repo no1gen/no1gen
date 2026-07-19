@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-profile-hero.svg" alt="Animated No1gen profile banner" />
+<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-station-hero.svg" alt="Animated No1gen orbital station banner" />
 
 </div>
 
