@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Product thinking">
+  <style>
+    .surface{fill:#eeedf7}.line{fill:none;stroke:#5f5a8d;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.dot{fill:#5f5a8d}
+    @media (prefers-color-scheme:dark){.surface{fill:#191824}.line{stroke:#9994c8}.dot{fill:#9994c8}}
+  </style>
+  <rect class="surface" width="48" height="48" rx="10"/>
+  <path class="line" d="M24 11.5 36.5 24 24 36.5 11.5 24 24 11.5Z"/>
+  <circle class="dot" cx="24" cy="24" r="3.5"/>
+</svg>

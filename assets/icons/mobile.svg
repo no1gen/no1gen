@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Mobile engineering">
+  <style>
+    .surface{fill:#eaf1f7}.line{fill:none;stroke:#526f8f;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.dot{fill:#526f8f}
+    @media (prefers-color-scheme:dark){.surface{fill:#141b24}.line{stroke:#82a3c7}.dot{fill:#82a3c7}}
+  </style>
+  <rect class="surface" width="48" height="48" rx="10"/>
+  <rect class="line" x="15.5" y="9.5" width="17" height="29" rx="4"/>
+  <path class="line" d="M21 14h6"/>
+  <circle class="dot" cx="24" cy="33.5" r="1.8"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Product launch">
+  <style>
+    .surface{fill:#edf1f3}.line{fill:none;stroke:#596c78;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}.dot{fill:#706b9e}
+    @media (prefers-color-scheme:dark){.surface{fill:#171c20}.line{stroke:#8ca1ad}.dot{fill:#9893c4}}
+  </style>
+  <rect class="surface" width="48" height="48" rx="10"/>
+  <path class="line" d="M14 30.5c5.7 4.2 14.3 3.6 19.2-1.3 4.2-4.2 4.2-11 0-15.2"/>
+  <path class="line" d="m31 12 3.5 1.5L33 17"/>
+  <circle class="dot" cx="19" cy="22" r="5"/>
+</svg>
