@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-orbit-hero.png" alt="No1gen orbit — ideas moving from signal to launch" />
-
-<sub>ORBIT / 01 &nbsp;·&nbsp; IDEA → PROTOTYPE → LAUNCH</sub>
-
-<a href="https://github.com/no1gen">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&pause=1050&color=60A5FA&center=true&vCenter=true&width=620&lines=Startup+creator+%26+mobile+product+engineer;From+idea+to+launch;Building+apps+people+use" alt="Startup creator and mobile product engineer" />
-</a>
-
-<p>
-  <a href="https://github.com/no1gen?tab=repositories"><img src="https://img.shields.io/badge/View_the_lab-111827?style=for-the-badge&logo=github&logoColor=white" alt="View the lab" /></a>
-  <a href="https://github.com/no1gen"><img src="https://img.shields.io/badge/Building_for_launch-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Building for launch" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-orbit-hero.svg" alt="No1gen orbital product lab — animated journey from idea to launch" />
 
 </div>
 
