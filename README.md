@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1D4ED8,100:60A5FA&height=190&section=header&text=Ali%20%2F%20no1gen&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Startup%20creator%20%E2%80%A2%20mobile%20products&descAlignY=61&descSize=17" alt="Ali / no1gen" />
+<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-orbit-hero.png" alt="No1gen orbit — ideas moving from signal to launch" />
+
+<sub>ORBIT / 01 &nbsp;·&nbsp; IDEA → PROTOTYPE → LAUNCH</sub>
 
 <a href="https://github.com/no1gen">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=17&pause=1050&color=60A5FA&center=true&vCenter=true&width=620&lines=Startup+creator+%26+mobile+product+engineer;From+idea+to+launch;Building+apps+people+use" alt="Startup creator and mobile product engineer" />
 </a>
 
 <p>
-  <a href="https://github.com/no1gen?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://github.com/no1gen"><img src="https://img.shields.io/badge/Open_to_build-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to build" /></a>
+  <a href="https://github.com/no1gen?tab=repositories"><img src="https://img.shields.io/badge/View_the_lab-111827?style=for-the-badge&logo=github&logoColor=white" alt="View the lab" /></a>
+  <a href="https://github.com/no1gen"><img src="https://img.shields.io/badge/Building_for_launch-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="Building for launch" /></a>
 </p>
 
 </div>
