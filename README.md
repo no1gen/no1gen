@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-orbit-hero.svg" alt="No1gen orbital product lab — animated journey from idea to launch" />
+<img src="https://raw.githubusercontent.com/no1gen/no1gen/main/assets/no1gen-orbit-hero.svg" alt="Animated No1gen profile banner" />
 
 </div>
 
-## Building products from zero to one
+## About me
 
-I turn product ideas into focused mobile applications, shaping the concept, experience and engineering from the first prototype through launch.
+I'm a startup creator and mobile app engineer. I turn ideas into simple, useful apps — from the first concept to launch.
 
-- Mobile app concepts and product strategy
-- Rapid prototyping and MVP delivery
-- Interaction design and hands-on engineering
-- Launch-ready product experiences
+- Product ideas and validation
+- Mobile app prototyping and engineering
+- UX, launch and iteration
 
 ## Selected work
 
@@ -21,34 +20,3 @@ I turn product ideas into focused mobile applications, shaping the concept, expe
 | [Skate Studio](https://github.com/no1gen/skate) | Scroll-scrubbed film and editorial product page | Canvas · Vanilla JS |
 | [Trick-Shot Football](https://github.com/no1gen/trick-shot-football) | Physics-based free-kick browser game | JavaScript · Canvas |
 | [Geometric Void](https://github.com/no1gen/geometric-void) | Experimental visual playground | HTML · CSS · JavaScript |
-
-## Toolkit
-
-`HTML` `CSS` `JavaScript` `Canvas 2D` `Three.js` `GSAP` `Git` `GitHub Pages`
-
-## Currently building
-
-Founder-minded mobile products: fast validation, strong user experience and apps that solve a clear problem.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=no1gen&show_icons=true&hide_border=true&theme=transparent&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no1gen&layout=compact&hide_border=true&theme=transparent&title_color=60A5FA&text_color=94A3B8" alt="Top languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=no1gen&bg_color=0D1117&color=94A3B8&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/no1gen/no1gen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/no1gen/no1gen/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/no1gen/no1gen/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br />
-
-<a href="https://github.com/no1gen"><img src="https://komarev.com/ghpvc/?username=no1gen&style=flat-square&color=2563EB&label=profile+views" alt="Profile views" /></a>
-
-<sub>Build something with a pulse.</sub>
-
-</div>
